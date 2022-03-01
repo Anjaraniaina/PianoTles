@@ -1,2 +1,2 @@
 # PianoTles
-jeu
+jeu en cours de développement
